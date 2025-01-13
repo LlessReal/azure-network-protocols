@@ -1,3 +1,7 @@
+# Brief Project Description
+Successfully led a project focused on creating and configuring a resource group and virtual machine. Conducted thorough monitoring and analysis of ICMP, SSH, DHCP, DNS, and RDP traffic, showcasing expertise in network observation and troubleshooting.
+<br> Related project - https://github.com/LlessReal/configure-ad
+
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines using Wireshark</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
